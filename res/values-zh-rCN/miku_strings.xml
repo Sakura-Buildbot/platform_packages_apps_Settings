@@ -79,4 +79,7 @@
     <string name="lockscreen_tweaks_category_title">锁屏手势</string>
     <string name="double_tap_sleep_lockscreen_title">在锁屏界面双击就可以息屏噢！</string>
 
+    <!-- Game Space -->
+    <string name="game_space_title">游戏空间</string>
+    <string name="game_space_summary">可以增强游戏体验噢！</string>
 </resources>
